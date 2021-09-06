@@ -2,40 +2,37 @@
 hero:
   firstButton:
     icon: briefcase-outline
-    link: '/#portofolio'
-    text: My work
+    link: '/#portfolio'
+    text: My Projects
   heading: "I'm Lukas Prochazka, and I create"
   image: /img/hero.jpeg
   secondButton:
     icon: whatsapp
     link: '/#contact'
-    text: Contact
+    text: Contact me
   social:
     facebook:
       link: 'https://facebook.com'
-      show: true
+      show: false
     instagram:
-      link: 'https://instagram.com'
+      link: 'https://www.instagram.com/lucavanfeinsten/'
       show: true
     linkedin:
-      link: 'https://linkedin.com'
+      link: 'https://www.linkedin.com/in/lukas-prochazka-b20a01211/'
       show: true
   typed:
-    - text: fast websites.
-    - text: beautiful logos.
+    - text: fast/reliable websites.
+    - text: UX/UI design.
     - text: great experiences.
 about:
   heading: Who am I?
-  image: /img/about.jpeg
+  image: /img/me1.jpeg
   text: >
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-    mi, sit amet consequat leo. Integer non dolor non elit sodales consequat.
-    Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.
+    My name is Lukas and I live in Vienna. At school I learned Borland Pascal, Visual Basic and PHP, now I learn to really code @ UpLeveled.io
 features:
   - icon: monitor-screenshot
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Create awesome UI / UX design
     title: UI/UX
   - icon: draw
     text: >
@@ -44,8 +41,7 @@ features:
     title: Logo Design
   - icon: xml
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
+      Web Development with React
     title: Web Development
 portfolio:
   projects:
@@ -75,5 +71,5 @@ portfolio:
       title: UIoUXy
   title: My work
 footer:
-  text: © John Doe
+  text: © Lukas Prochazka
 ---
