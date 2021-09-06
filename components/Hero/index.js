@@ -45,6 +45,15 @@ const Hero = ({ data }) => {
           </button>
         </div>
         <div className="hero__social flex justify-center py-3">
+          {social.github.show && (
+            <a
+              href={social.github.link}
+              target="_blank"
+              className="mx-2 px-1 text-xl hover:bg-gray-800 rounded-lg"
+            >
+              <i className="mdi mdi-github"></i>
+            </a>
+          )}
           {social.twitter.show && (
             <a
               href={social.twitter.link}

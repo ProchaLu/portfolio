@@ -14,6 +14,9 @@ hero:
     twitter:
       link: 'https://twitter.com/LucaVanFeinsten'
       show: true
+    github:
+      link: 'https://github.com/ProchaLu'
+      show: true
     instagram:
       link: 'https://www.instagram.com/lucavanfeinsten/'
       show: true
