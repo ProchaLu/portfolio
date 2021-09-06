@@ -11,9 +11,9 @@ hero:
     link: '/#contact'
     text: Contact me
   social:
-    facebook:
-      link: 'https://facebook.com'
-      show: false
+    twitter:
+      link: 'https://twitter.com/LucaVanFeinsten'
+      show: true
     instagram:
       link: 'https://www.instagram.com/lucavanfeinsten/'
       show: true
@@ -28,7 +28,7 @@ about:
   heading: Who am I?
   image: /img/me1.jpeg
   text: >
-    My name is Lukas and I live in Vienna. At school I learned Borland Pascal, Visual Basic and PHP, now I learn to really code @ UpLeveled.io
+    My name is Lukas and I live in Vienna. At school I learned Borland Pascal, Visual Basic and PHP, now I really learn to code @ UpLeveled.io
 features:
   - icon: monitor-screenshot
     text: >
