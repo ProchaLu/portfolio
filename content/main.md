@@ -39,9 +39,8 @@ features:
     title: UI/UX
   - icon: draw
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus
-      mi.
-    title: Logo Design
+      Front and Backend Developer
+    title: Front / Back-End
   - icon: xml
     text: >
       Web Development with React
